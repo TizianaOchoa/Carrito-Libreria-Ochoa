@@ -1,0 +1,14 @@
+body {
+    background-color: oklch(76.219% 0.11321 249.901);
+}
+.separador-morado {
+    border: none;
+    height: 2px;
+    background-color: #8000ff; 
+    width: 80%;
+    margin: 0 auto 20px auto;
+}
+.card {
+    border-radius: 10px;
+}
+
